@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Reunión de Equipo",
+      "description": "Planificación del trimestre",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "category": "work",
+      "startDate": "2024-03-04",
+      "recurrence": "weekly"
+    },
+    {
+      "id": "2",
+      "title": "Clase de Español",
+      "description": "Practicar verbos irregulares",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "category": "study",
+      "startDate": "2024-03-05",
+      "recurrence": "none"
+    },
+    {
+      "id": "3",
+      "title": "Cena con Amigos",
+      "description": "Restaurante nuevo en el centro",
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "category": "personal",
+      "startDate": "2024-03-08",
+      "recurrence": "none"
+    },
+    {
+      "id": "4",
+      "title": "Entrenamiento",
+      "description": "Gimnasio",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "category": "personal",
+      "startDate": "2024-03-04",
+      "recurrence": "daily"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Terminar informe trimestral",
+      "dueDate": "2024-03-10",
+      "completed": false,
+      "createdAt": "2024-03-01T10:00:00.000Z"
+    },
+    {
+      "id": "task2",
+      "title": "Llamar al médico",
+      "dueDate": "2024-03-07",
+      "completed": true,
+      "createdAt": "2024-03-02T15:30:00.000Z"
+    },
+    {
+      "id": "task3",
+      "title": "Comprar regalo para cumple",
+      "dueDate": "2024-03-12",
+      "completed": false,
+      "createdAt": "2024-03-03T09:00:00.000Z"
+    },
+    {
+      "id": "task4",
+      "title": "Revisar facturas",
+      "dueDate": "2024-03-05",
+      "completed": false,
+      "createdAt": "2024-03-03T11:00:00.000Z"
+    }
+  ]
+}
